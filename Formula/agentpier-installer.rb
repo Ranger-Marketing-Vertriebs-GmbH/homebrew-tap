@@ -6,8 +6,8 @@ require "shellwords"
 class AgentpierInstaller < Formula
   desc "Install AgentPier and its user service"
   homepage "https://github.com/Ranger-Marketing-Vertriebs-GmbH/agent-pier"
-  url "https://github.com/Ranger-Marketing-Vertriebs-GmbH/agent-pier/releases/download/v1.17.14/agentpier-installer-1.17.14.tar.gz"
-  sha256 "f077615213b4d08c3beb13308c6ed17b5cd4bebcefa9f8be6a4ed63940288824"
+  url "https://github.com/Ranger-Marketing-Vertriebs-GmbH/agent-pier/releases/download/v1.17.15/agentpier-installer-1.17.15.tar.gz"
+  sha256 "dd6ad8e07275fa3a92c249ca5fe8449720dc93c46a3787d7141bd819564142aa"
   license "Apache-2.0"
 
   depends_on "git"
